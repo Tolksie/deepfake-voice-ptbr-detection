@@ -1,0 +1,12 @@
+Modelo: cnn
+Feature: stft
+
+Accuracy : 0.9689
+Precision: 0.9953
+Recall   : 0.9422
+F1-score : 0.9680
+AUC-ROC  : 0.9972
+
+Matriz de confusão:
+[[224   1]
+ [ 13 212]]

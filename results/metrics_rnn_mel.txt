@@ -1,0 +1,12 @@
+Modelo: rnn
+Feature: mel
+
+Accuracy : 0.6956
+Precision: 0.6571
+Recall   : 0.8178
+F1-score : 0.7287
+AUC-ROC  : 0.9152
+
+Matriz de confusão:
+[[129  96]
+ [ 41 184]]
